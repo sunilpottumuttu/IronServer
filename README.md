@@ -20,16 +20,7 @@ If you want to run the source code use Visual C# Express Edition, Visual Web Dev
 What's there in this Release:
 
 Alpha release supports, allow you to access your computer information/control from free Publicly Hosted Website using Iron Python.
-Work In-Progress
 
-Testing
-Documentation 
-Support for Iron Ruby
-Support DOS commands using custom DOS shell
-Creating a Custom Protocol(which i call it as IronProtocol) for this type of Application
-Control and access your computer from Twitter,Facebook, web mail
-Code Cleanup
-Reducing the Build Time Dependencies on Iron Languages DLL's
 Attention!!! 
 
  My intention is not to Create/Demonstrate a Malware with this application using .NET
